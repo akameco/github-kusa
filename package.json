@@ -1,6 +1,6 @@
 {
   "name": "github-kusa",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check the grass of GitHub at the terminal",
   "license": "MIT",
   "repository": "akameco/github-kusa",
