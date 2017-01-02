@@ -2,6 +2,7 @@
 
 > Check the grass of GitHub at the terminal
 
+![media](https://i.gyazo.com/dc0800ba583826e89c16ef9f712de047.png)
 
 ## CLI
 
