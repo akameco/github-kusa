@@ -1,5 +1,7 @@
 # github-kusa [![Build Status](https://travis-ci.org/akameco/github-kusa.svg?branch=master)](https://travis-ci.org/akameco/github-kusa)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/github-kusa.svg)](https://greenkeeper.io/)
+
 > Check the grass of GitHub at the terminal
 
 ![media](https://i.gyazo.com/dc0800ba583826e89c16ef9f712de047.png)
